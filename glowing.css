@@ -1,0 +1,22 @@
+body{
+    background-color: #0b1522;
+    color: white;
+}
+
+h1{
+    margin: 6% 0 0% 4%;
+    transition: all ease 0.5s;
+}
+
+h1:hover{
+    text-shadow: 0 0 5px #03e9f4 ,0 0 15px #03e9f4, 0 0 25px #03e9f4, 0 0 100px #03e9f4 ;
+}
+
+h2{
+    margin: 6% 0 0% 4%;
+    transition: all ease 0.5s;
+}
+
+h2:hover{
+    text-shadow: 0 0 5px #03e9f4 ,0 0 15px #03e9f4, 0 0 25px #03e9f4, 0 0 100px #03e9f4 ;
+}
